@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badalmehta2004
 - 👀 I’m interested in PROGRAMMING...
-- 🌱 I’m currently learning Ai and ML.
+- 🌱 I’m currently learning AI and ML.
 - currently working on Deep fake AI project as main project for my 4th year submission
 
 
