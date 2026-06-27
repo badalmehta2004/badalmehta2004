@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @badalmehta2004
 - 👀 I’m interested in PROGRAMMING...
-- 🌱 I’m currently learning C &.C++..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Ai and ML.
+- currently working on Deep fake AI project as main project for my 4th year submission
+
 
 <!---
 badalmehta2004/badalmehta2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
